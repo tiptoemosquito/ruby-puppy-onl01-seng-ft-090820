@@ -20,4 +20,4 @@ class Dog()
     @@all.clear
   end
   clear_all
-end    
+end
